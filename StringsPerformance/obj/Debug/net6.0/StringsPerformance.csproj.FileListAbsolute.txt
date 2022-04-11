@@ -1,0 +1,15 @@
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\bin\Debug\net6.0\StringsPerformance.exe
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\bin\Debug\net6.0\StringsPerformance.deps.json
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\bin\Debug\net6.0\StringsPerformance.runtimeconfig.json
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\bin\Debug\net6.0\StringsPerformance.dll
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\bin\Debug\net6.0\StringsPerformance.pdb
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.csproj.AssemblyReference.cache
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.AssemblyInfoInputs.cache
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.AssemblyInfo.cs
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.csproj.CoreCompileInputs.cache
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.dll
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\refint\StringsPerformance.dll
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.pdb
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\StringsPerformance.genruntimeconfig.cache
+D:\WorkspaceCSharp\StringsPerformance\StringsPerformance\obj\Debug\net6.0\ref\StringsPerformance.dll
